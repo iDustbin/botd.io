@@ -1,0 +1,23 @@
+---
+language: python
+python: "3.7"
+
+# Use the new container infrastructure
+sudo: false
+
+# Install ansible
+addons:
+  apt:
+    packages:
+    - python3-pip
+
+install:
+  # Install ansible
+  - pip install selenium, csv, bs4, requests, threading, json, python_anticaptcha
+
+script:
+  # Basic role syntax check
+  - python3 main.py
+
+# notifications:
+#   webhooks: https://galaxy.ansible.com/api/v1/notifications/
