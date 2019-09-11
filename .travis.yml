@@ -13,7 +13,10 @@ addons:
 
 install:
   # Install ansible
-  - pip install selenium, csv, bs4, requests, threading, json, python_anticaptcha
+  - pip3 install selenium \
+  csv \
+  bs4 \ 
+  pandas 
 
 script:
   # Basic role syntax check
