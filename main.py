@@ -33,46 +33,22 @@ USER_AGENT = (
 )
 
 FIRST_NAMES=(
-    'Lukas',
-    'Herold',
-    'Gerrit',
-    'Justin',
-    'Reiner',
-    'Rainer',
-    'Karl',
-    'Adolf',
-    'Juergen',
-    'Tom',
-    'Berry',
-    'Karlos',
     'Sebastian',
     'Heinrich'
 )
 
 LAST_NAMES=(
-    'Kaufmann',
-    'Baumhaus',
-    'Kleinbielen',
-    'Heinzmann',
-    'Angular',
-    'Oezdemir',
-    'Cox',
-    'Bode',
     'Schmidt',
     'Heinzelmann'
 )
 
 STREETS=(
-    'Ackerweg.',
-    'Muehlenstr.',
+    'Ackerweg. 4',
+    'Muehlenstr. 8',
 )
 
 ZIP_CODES=(
     ['47608','Geldern'],
-    ['40882','Ratingen'],
-    ['50213','Koeln'],
-    ['50213','Koeln'],
-    ['40213','Duesseldorf'],
     ['40873','Duisburg'],
 )
 
