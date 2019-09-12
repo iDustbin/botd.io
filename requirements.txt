@@ -5,5 +5,4 @@ bs4
 csv342
 pandas
 requests
-json
 base64
