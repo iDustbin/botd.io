@@ -13,11 +13,7 @@ addons:
 
 install:
   # Install ansible
-  - pip3 install selenium \
-  csv \
-  bs4 \ 
-  pandas 
-
+  - pip3 install requirements.yml
 script:
   # Basic role syntax check
   - python3 main.py
