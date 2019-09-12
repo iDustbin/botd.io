@@ -2,7 +2,9 @@ setuptools
 python3-anticaptcha
 selenium
 bs4
-csv
+csv342
 threading
 pandas
 requests
+json
+base64
