@@ -10,7 +10,7 @@ import time
 import csv
 import string
 from bs4 import BeautifulSoup
-from python_anticaptcha import AnticaptchaClient, ImageToTextTask
+from python3_anticaptcha import AnticaptchaClient, ImageToTextTask
 import re
 import pandas as pd
 import os
