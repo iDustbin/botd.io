@@ -3,7 +3,6 @@ python3-anticaptcha
 selenium
 bs4
 csv342
-thread
 pandas
 requests
 json
