@@ -1,5 +1,5 @@
 setuptools
-python3-anticaptcha
+python-anticaptcha
 selenium
 bs4
 csv342
