@@ -143,7 +143,8 @@ class Register(Thread):
         chrome_options.add_argument(f'user-agent={USER_AGENT}')
 #        chrome_options.add_argument('--headless')
         
-        task = webdriver.Chrome("./chromedriver", options=chrome_options)
+        task = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
+#        task = webdriver.Chrome("./chromedriver", options=chrome_options)
 
         # task = webdriver.Remote(
         # command_executor='http://127.0.0.1:4444/wd/hub',
