@@ -5,10 +5,9 @@ BOTD.IO
 Install Ansible Role for Monit
 
 # Build Status
-![Build Status](https://travis-ci.org/iDustbin/botd.io.svg?branch=master "https://travis-ci.org/iDustbin/botd.io/") | [BOTD.IO](https://travis-ci.org/iDustbin/botd.io/)
+![Build Status](https://travis-ci.org/iDustbin/botd.io.svg?branch=master "https://travis-ci.org/iDustbin/botd.io/") | [BOTD.IO](https://travis-ci.org/iDustbin/botd.io/) | [![Known Vulnerabilities](https://snyk.io/test/github/iDustbin/botd.io/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/iDustbin/botd.io?targetFile=requirements.txt)
 
-# Snyk.io
-[![Known Vulnerabilities](https://snyk.io/test/github/iDustbin/botd.io/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/iDustbin/botd.io?targetFile=requirements.txt)
+
 
 # Example run
     - python3 main.py
