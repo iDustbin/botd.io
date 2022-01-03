@@ -5,3 +5,4 @@ bs4
 csv342
 pandas
 requests
+numpy>=1.22.0 # not directly required, pinned by Snyk to avoid a vulnerability
