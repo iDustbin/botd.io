@@ -5,4 +5,4 @@ bs4
 csv342
 pandas
 requests
-numpy>=1.22.0rc1
+numpy>=1.22.0
